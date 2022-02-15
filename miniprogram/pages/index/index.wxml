@@ -1,0 +1,8 @@
+<!--pages/index/index.wxml-->
+<view class="container">
+    <image class="bg" mode="aspectFill" src="../../images/bg.jpg"></image>
+    <view class="mask">
+        <view class="content"></view>
+        <tab-bar></tab-bar>
+    </view>
+</view>

@@ -1,0 +1,1 @@
+"D:\Program Files (x86)\Tencent\微信web开发者工具\cli.bat" cloud functions deploy --e test-bmhqc --n quickstartFunctions --r --project "F:\myself\GoStudy" --report_first && "D:\Program Files (x86)\Tencent\微信web开发者工具\cli.bat" cloud functions deploy --e studytest-5gd9yyzee1243172 --n quickstartFunctions --r --project "F:\myself\GoStudy" --report
